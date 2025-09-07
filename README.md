@@ -61,6 +61,14 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 This work is licensed under [Creative Commons Attribution-ShareAlike 4.0](LICENSE) to ensure it remains free and open for educational use.
 
+## 🤖 AI Usage
+
+This project uses AI tools transparently to enhance educational content while maintaining mathematical rigor and human oversight. See our [AI Manifesto](AI_MANIFESTO.md) for detailed information about:
+- How AI assists in content creation
+- Quality assurance processes  
+- Ethical guidelines for AI usage
+- Transparency commitments
+
 ## 📞 Contact & Support
 
 - Issues: Use GitHub Issues for bugs or content questions

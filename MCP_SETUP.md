@@ -2,6 +2,8 @@
 
 This project uses Model Context Protocol (MCP) servers to enhance AI capabilities. The following servers are configured:
 
+**Note**: All AI usage in this project follows our [AI Manifesto](AI_MANIFESTO.md) guidelines for transparency and educational integrity.
+
 ## Installed MCP Servers
 
 ### 1. Sequential Thinking Server

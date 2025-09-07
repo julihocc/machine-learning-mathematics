@@ -33,6 +33,13 @@ Thank you for your interest in contributing to this open educational resource!
 - **Clear explanations**: Write for your intended audience level
 - **Code quality**: Follow PEP 8 for Python code
 - **Citations**: Properly cite sources and references
+- **AI usage**: Follow guidelines in [AI Manifesto](AI_MANIFESTO.md) for transparent AI usage
+
+### AI-Assisted Contributions
+- **Disclosure**: Mention significant AI assistance in pull request descriptions
+- **Verification**: All AI-generated mathematical content must be human-verified
+- **Quality**: AI tools should enhance, not replace, human expertise and oversight
+- **Transparency**: Be open about which AI tools were used and how
 
 ### Pull Request Process
 1. Create a feature branch from `main`

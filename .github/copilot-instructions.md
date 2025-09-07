@@ -4,6 +4,12 @@
 
 This is an **open-source educational course** combining mathematics education with multi-modal content delivery (Jupyter notebooks + YouTube videos). The project follows a **dual-purpose design**: serving both professional learners and YouTube audiences.
 
+**⚠️ AI Usage Policy**: This project follows strict guidelines for AI assistance. See [AI_MANIFESTO.md](../AI_MANIFESTO.md) for complete policies. Key points:
+- All mathematical content must be human-verified for accuracy
+- AI assists with organization and clarity, never replaces human expertise
+- Transparency required for significant AI contributions
+- Educational integrity and mathematical rigor are paramount
+
 ## Architecture & Key Components
 
 ### 📁 Content Structure
