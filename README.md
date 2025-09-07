@@ -69,7 +69,11 @@ This project uses AI tools transparently to enhance educational content while ma
 - Ethical guidelines for AI usage
 - Transparency commitments
 
-## 📞 Contact & Support
+## � Project Status
+
+This project is actively under development. See our [TODO List](TODO.md) for current priorities and planned features.
+
+## �📞 Contact & Support
 
 - Issues: Use GitHub Issues for bugs or content questions
 - Discussions: Use GitHub Discussions for general questions
